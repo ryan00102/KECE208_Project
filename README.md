@@ -1,1 +1,1 @@
-# KECE208_Project
+# Korea University Data Structure and Algorithm projects
